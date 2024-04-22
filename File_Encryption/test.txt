@@ -1,0 +1,8 @@
+What is cybersecurity?
+Cybersecurity is the practice of protecting internet-connected systems such as hardware, software and data from cyberthreats. It's used by individuals and enterprises to protect against unauthorized access to data centers and other computerized systems.
+
+An effective cybersecurity strategy can provide a strong security posture against malicious attacks designed to access, alter, delete, destroy or extort an organization's or user's systems and sensitive data. Cybersecurity is also instrumental in preventing attacks designed to disable or disrupt a system's or device's operations.
+
+An ideal cybersecurity approach should have multiple layers of protection across any potential access point or attack surface. This includes a protective layer for data, software, hardware and connected networks. In addition, all employees within an organization who have access to any of these endpoints should be trained on the proper compliance and security processes. Organizations also use tools such as unified threat management systems as another layer of protection against threats. These tools can detect, isolate and remediate potential threats and notify users if additional action is needed.
+
+Cyberattacks can disrupt or immobilize their victims through various means, so creating a strong cybersecurity strategy is an integral part of any organization. Organizations should also have a disaster recovery plan in place so they can quickly recover in the event of a successful cyberattack.
